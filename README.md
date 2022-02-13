@@ -1,9 +1,9 @@
 # Shellsort
-This is an implementation of the Shell Sort algorithm for decimal numbers
+This is an implementation of the Shell Sort algorithm for decimal numbers.
 
 ## Motivation :dark_sunglasses:
 ---
-
+This was one of my coursework during my 1st year.
 ### Features
 - **Partitions** arrays starting from 511, 255, 127, 63, 31, 15, 7, 3, 1. If array length is not large enough ie length = 90, 127>90>63, the first partition will be 63 then 31....1.
 - Performs **Insertion sort** on the partitioned arrays.
