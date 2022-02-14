@@ -1,5 +1,5 @@
 # Shellsort
-This is an implementation of the Shell Sort algorithm for decimal numbers.
+This is my implementation of the Shell Sort algorithm for decimal numbers.
 
 ## Motivation :dark_sunglasses:
 ---
